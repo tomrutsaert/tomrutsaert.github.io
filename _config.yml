@@ -5,8 +5,16 @@ theme: jekyll-theme-cayman
 title:        Inmail.be
 tagline:      Mail made simple!
 baseurl:      ""
+paginate: 1
 
 # About/contact
 author:
   name:       Tom Rutsaert
-  url:        http://inmail.be 
+  url:        http://inmail.be
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
