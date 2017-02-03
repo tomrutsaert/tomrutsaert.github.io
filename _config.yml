@@ -1,9 +1,12 @@
-title : Inmail.be
-tagline: Mail made simple!
-author :
-  name : Tom Rutsaert
-  github : tomrutsaert
-
-production_url : http://tomrutsaert.github.io
 exclude: ['README.md']
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Inmail.be
+tagline:      Mail made simple!
+baseurl:      ""
+
+# About/contact
+author:
+  name:       Tom Rutsaert
+  url:        http://inmail.be 
